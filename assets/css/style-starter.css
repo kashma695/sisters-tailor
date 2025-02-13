@@ -14987,8 +14987,7 @@ button.search-btn {
 }
 
 .btn-style:hover {
-  background: var(--secondary-color);
-  color: #fff;
+  color: var(--secondary-color);
 }
 
 /* //button style */
